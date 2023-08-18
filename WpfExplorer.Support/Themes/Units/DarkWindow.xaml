@@ -51,14 +51,18 @@
                             <unit:MinimizeButton Grid.Column="1"/>
                             <unit:MaximizeButton Grid.Column="2"/>
                             <unit:CloseButton Grid.Column="3"/>
+
+                            <ContentPresenter 
+                                Grid.Row="1"
+                                Grid.ColumnSpan="4"
+                                ContentTemplate="{TemplateBinding ContentTemplate}"
+                                ContentSource="Content"/>
                             
                         </Grid>
                     </Border>
                 </ControlTemplate>
             </Setter.Value>
         </Setter>
-        
-        
     </Style>
     
 </ResourceDictionary>

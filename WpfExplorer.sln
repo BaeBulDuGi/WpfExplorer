@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer", "WpfExplorer\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer.Support", "WpfExplorer.Support\WpfExplorer.Support.csproj", "{D969F8AB-7044-4194-86A0-991046136672}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplorer.Forms", "WpfExplorer.Forms\WpfExplorer.Forms.csproj", "{F4287697-99DC-4AB6-A028-0180FE5A75B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D969F8AB-7044-4194-86A0-991046136672}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D969F8AB-7044-4194-86A0-991046136672}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D969F8AB-7044-4194-86A0-991046136672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4287697-99DC-4AB6-A028-0180FE5A75B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4287697-99DC-4AB6-A028-0180FE5A75B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4287697-99DC-4AB6-A028-0180FE5A75B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4287697-99DC-4AB6-A028-0180FE5A75B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
