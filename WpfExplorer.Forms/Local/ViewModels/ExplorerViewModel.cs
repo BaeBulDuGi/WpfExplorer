@@ -3,10 +3,7 @@ using Jamesnet.Wpf.Mvvm;
 using Prism.Ioc;
 using Prism.Regions;
 using System.Collections.Generic;
-using System.IO;
-using System.Windows.Documents;
-using WpfExplorer.Forms.Local.Helper;
-using WpfExplorer.Forms.Local.Models;
+using WpfExplorer.Support.Local.Models;
 
 namespace WpfExplorer.Forms.Local.ViewModels
 {

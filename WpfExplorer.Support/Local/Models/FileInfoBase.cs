@@ -1,12 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using Jamesnet.Wpf.Controls;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace WpfExplorer.Forms.Local.Models
+namespace WpfExplorer.Support.Local.Models
 {
     public partial class FileInfoBase : ObservableObject
     {
